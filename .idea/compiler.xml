@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-gateway" />
+        <module name="api-gateway-dynamic-filter" />
+        <module name="api-gateway-dynamic-route" />
+        <module name="api-gateway-exception" />
+        <module name="config-client" />
+        <module name="config-client-eureka" />
+        <module name="config-client-eureka-kafka" />
+        <module name="config-client-eureka-rabbit" />
+        <module name="config-server" />
+        <module name="config-server-eureka" />
+        <module name="config-server-eureka-kafka" />
+        <module name="config-server-eureka-rabbit" />
+        <module name="eureka-server" />
+        <module name="eureka-server-ha" />
+        <module name="feign-consumer" />
+        <module name="hello-service" />
+        <module name="hello-service-api" />
+        <module name="hystrix-dashboard" />
+        <module name="rabbitmq-hello" />
+        <module name="ribbon-consumer" />
+        <module name="spring-boot-hello" />
+        <module name="stream-consumer" />
+        <module name="stream-producer" />
+        <module name="trace-1" />
+        <module name="trace-2" />
+        <module name="trace-stream-1" />
+        <module name="trace-stream-2" />
+        <module name="turbine" />
+        <module name="turbine-amqp" />
+        <module name="zipkin-server" />
+        <module name="zipkin-server-stream" />
+        <module name="zipkin-server-stream-mysql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api-gateway" target="1.8" />
+      <module name="api-gateway-dynamic-filter" target="1.8" />
+      <module name="api-gateway-dynamic-route" target="1.8" />
+      <module name="api-gateway-exception" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client-eureka" target="1.8" />
+      <module name="config-client-eureka-kafka" target="1.8" />
+      <module name="config-client-eureka-rabbit" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server-eureka" target="1.8" />
+      <module name="config-server-eureka-kafka" target="1.8" />
+      <module name="config-server-eureka-rabbit" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-ha" target="1.8" />
+      <module name="feign-consumer" target="1.8" />
+      <module name="hello-service" target="1.8" />
+      <module name="hello-service-api" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="rabbitmq-hello" target="1.8" />
+      <module name="ribbon-consumer" target="1.8" />
+      <module name="spring-boot-hello" target="1.8" />
+      <module name="spring-cloud-in-action" target="1.5" />
+      <module name="stream-consumer" target="1.8" />
+      <module name="stream-producer" target="1.8" />
+      <module name="trace-1" target="1.8" />
+      <module name="trace-2" target="1.8" />
+      <module name="trace-stream-1" target="1.8" />
+      <module name="trace-stream-2" target="1.8" />
+      <module name="turbine" target="1.8" />
+      <module name="turbine-amqp" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+      <module name="zipkin-server-stream" target="1.8" />
+      <module name="zipkin-server-stream-mysql" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
